@@ -1,0 +1,48 @@
+ <h1>Inicio</h1>
+            <br />
+
+            <ul>
+              <Link to="/voto">
+                <li>Voto</li>
+              </Link>
+              <Link to="/plebiscito">
+                <li>Plebiscito</li>
+              </Link>
+              <Link to="/revocatoriaMandato">
+                <li>Revocatoria de mandato</li>
+              </Link>
+              <Link to="/referendo">
+                <li>Referendo</li>
+              </Link>
+              <Link to="/cabildoAbierto">
+                <li>Cabildo abierto</li>
+              </Link>
+              <Link to="/consultaPopular">
+                <li>Consulta popular</li>
+              </Link>
+              <Link to="/iniciativaPopular">
+                <li>Iniciativa popular</li>
+              </Link>
+            </ul>
+            <br />
+            <br />
+            <p>
+              Profesores como este es un borrador decidí no ponerle estilo, ni
+              textos sobre el tema, solo hice la navegabilidad y algunos textos
+              de ejemplos. si ustedes nos dan el visto bueno, ya se empezaria a
+              trabajar en lo que falta, que es el diseño y la información real,
+              en general hariamos todo funcional y bonito, pero no sabemos si
+              aceptaran este tipo de "cartilla", disculpen si hay errores de
+              ortografia. <br />
+              -JPRP
+            </p>
+            <br />
+
+            <Link to="/">
+              <p>Volver al Inicio </p>
+            </Link>
+
+            <footer>
+              Alejandro Rodriguez Molina - Juan Pablo Roldán Patiño <br /> 11-5{" "}
+              <br /> Institución Educativa Diego Echavarria Misas{" "}
+            </footer>

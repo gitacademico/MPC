@@ -1,0 +1,18 @@
+#logo{
+
+    width: 80px;
+}
+
+nav{
+   background-color: white;
+   position: fixed;
+   margin-bottom: 50px;
+   border-radius: 4px 4px 4px 4px;
+}
+
+.footer{
+    margin-top: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
